@@ -1,10 +1,8 @@
 # 🎫 Ticket Bot
 ## 📝 Table of Contents 
 
-+ [About](https://github.com/zhon12345/Ticket-Bot#-about)
-+ [Commands](https://github.com/zhon12345/Ticket-Bot#-commands)
-+ [Contributing](https://github.com/zhon12345/Ticket-Bot#%EF%B8%8F-contributing)
-+ [License](https://github.com/zhon12345/Ticket-Bot#-license)
++ [About](https://github.com/slorixsh/tickert#-about)
++ [Commands](https://github.com/slorixsh/tickert#-commands)
 
 ## ❔ About
 This is a simple ticket bot created by `slorixsh` under 24 hours. It is coded in [Goorm IDE](https://ide.goorm.io/) using [Node.js](https://nodejs.org/en/) and [Discord.js](https://discord.js.org).
